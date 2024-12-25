@@ -1,0 +1,6 @@
+ffmpeg_python==0.2.0
+gdown==5.2.0
+opencv_python==4.10.0.84
+streamlit==1.41.1
+tensorflow==2.18.0
+tf_keras==2.18.0
